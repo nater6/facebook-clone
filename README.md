@@ -6,6 +6,9 @@
 
 A social media website taking inspiration from Instagram and Facebook, built with React, Golang, Docker, SQLite3, and CSS.
 
+[Home Page](./readme/moment-home.png)
+[Login Page](./readme/moment-login.png)
+
 ## Installation and Setup Instructions
 
 Clone down this repository. You will need `node`, `npm` and `Docker` installed globally on your machine.
