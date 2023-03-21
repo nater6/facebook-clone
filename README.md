@@ -30,3 +30,5 @@ To build the backend docker image:
 2) run the command `make backendDocker`
 
 Once both images are created and running go to [localhost:8070](http://localhost:8070)
+
+This project was a project for the 01 Founders coding school and was completed with [codecplyre](https://github.com/codecplyre) & [Keivon](https://github.com/Keivon)
