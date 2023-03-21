@@ -1,0 +1,9 @@
+//All files that arenot needed to build
+Dockerfile
+.dockerignore
+.gitignore
+.prettierrc.json
+.prettierignore
+
+//Ignore files that get built
+node_modules
