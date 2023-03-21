@@ -26,4 +26,4 @@ To build the backend docker image:
 1) Open a terminal for the directory `facebook-clone`
 2) run the command `make backendDocker`
 
-Once both images are created and running go to [localhost:5500](https://localhost:5500)
+Once both images are created and running go to [localhost:8070](http://localhost:8070)
