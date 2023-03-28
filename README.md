@@ -11,7 +11,7 @@ A social media website taking inspiration from Instagram and Facebook, built wit
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `node`, `npm` and `Docker` installed globally on your machine.
+You will need `node`, `npm` and `Docker` installed globally on your machine.
 
 A Dockerfile has been made for both the frontend and backend. 
 
